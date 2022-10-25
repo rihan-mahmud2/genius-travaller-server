@@ -1,0 +1,64 @@
+[
+  {
+    "id": 1,
+    "name": "Sharaton",
+    "details": "Surrounded by relaxed restaurants and shops, this upscale hotel is a 9-minute walk from Banani train station, 3 km from Gulshan Lake Park and 9 km from the Bangladesh National Museum. "
+  },
+  {
+    "id": 1,
+    "name": "banku",
+    "details": "Surrounded by relaxed restaurants and shops, this upscale hotel is a 9-minute walk from Banani train station, 3 km from Gulshan Lake Park and 9 km from the Bangladesh National Museum. "
+  },
+  {
+    "id": 1,
+    "name": "Chanku",
+    "details": "Surrounded by relaxed restaurants and shops, this upscale hotel is a 9-minute walk from Banani train station, 3 km from Gulshan Lake Park and 9 km from the Bangladesh National Museum. "
+  },
+  {
+    "id": 2,
+    "name": "Rest in",
+    "details": "Surrounded by relaxed restaurants and shops, this upscale hotel is a 9-minute walk from Banani train station, 3 km from Gulshan Lake Park and 9 km from the Bangladesh National Museum.",
+    "img": "https://cf.bstatic.com/xdata/images/hotel/square200/107978240.webp?k=a163c8b7e074554dcfd53bfe6e5e8d54f51a2905fee37e24ad9092dbe236c1b2&o="
+  },
+  {
+    "id": 2,
+    "name": "Sea Beach",
+    "details": "The beachside Atrium Hotel Thassos Hotel is 600 metres from Potos Village, amidst lush greenery. It boasts a pool, fitness centre, treatments rooms, sauna and free Wi-Fi. It is almost impossible to find",
+    "img": "https://cf.bstatic.com/xdata/images/hotel/square200/19886165.webp?k=2dc6bedf495f5adeb09cb444509879a3f08d5e43b54a9e13ae6eeca240ce317c&o="
+  },
+  {
+    "id": 2,
+    "name": "Kamari Beach Hotel ",
+    "details": "This 3-star hotel is located on the idyllic white-sandy beach of San Antonio. the hotel position , rooms are cleaned daily, staff very friendly, very good breakfast"
+  },
+  {
+    "id": 3,
+    "name": "Luxuary Hotel",
+    "details": "Surrounded by relaxed restaurants and shops, this upscale hotel is a 9-minute walk from Banani train station, 3 km from Gulshan Lake Park and 9 km from the Bangladesh National Museum.",
+    "img": "https://cf.bstatic.com/xdata/images/hotel/square200/373487495.webp?k=12156b2091c55945bd2022ddd6dd55883a76e70b66cc84e4fee98942dd55e366&o="
+  },
+  {
+    "id": 3,
+    "name": "Luxuary Hotel",
+    "details": "Surrounded by relaxed restaurants and shops, this upscale hotel is a 9-minute walk from Banani train station, 3 km from Gulshan Lake Park and 9 km from the Bangladesh National Museum.",
+    "img": "https://cf.bstatic.com/xdata/images/hotel/square200/373487495.webp?k=12156b2091c55945bd2022ddd6dd55883a76e70b66cc84e4fee98942dd55e366&o="
+  },
+  {
+    "id": 2,
+    "name": "Luxuary Hotel",
+    "details": "Surrounded by relaxed restaurants and shops, this upscale hotel is a 9-minute walk from Banani train station, 3 km from Gulshan Lake Park and 9 km from the Bangladesh National Museum.",
+    "img": "https://cf.bstatic.com/xdata/images/hotel/square200/373487495.webp?k=12156b2091c55945bd2022ddd6dd55883a76e70b66cc84e4fee98942dd55e366&o="
+  },
+  {
+    "id": 3,
+    "name": "Luxuary Hotel",
+    "details": "Surrounded by relaxed restaurants and shops, this upscale hotel is a 9-minute walk from Banani train station, 3 km from Gulshan Lake Park and 9 km from the Bangladesh National Museum.",
+    "img": "https://cf.bstatic.com/xdata/images/hotel/square200/373487495.webp?k=12156b2091c55945bd2022ddd6dd55883a76e70b66cc84e4fee98942dd55e366&o="
+  },
+  {
+    "id": 1,
+    "name": "Luxuary Hotel",
+    "details": "Surrounded by relaxed restaurants and shops, this upscale hotel is a 9-minute walk from Banani train station, 3 km from Gulshan Lake Park and 9 km from the Bangladesh National Museum.",
+    "img": "https://cf.bstatic.com/xdata/images/hotel/square200/373487495.webp?k=12156b2091c55945bd2022ddd6dd55883a76e70b66cc84e4fee98942dd55e366&o="
+  }
+]
